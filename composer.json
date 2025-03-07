@@ -1,0 +1,20 @@
+{
+  "name": "ongudidan/id-generator",
+  "description": "This package is used to generate unique id which combines UUID and other encoding and timestamp to achieve the uniqueness",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Ongudidan\\IdGenerator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ongudidan",
+      "email": "ongudidan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "ramsey/uuid": "*"
+  }
+}
