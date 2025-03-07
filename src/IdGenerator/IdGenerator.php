@@ -1,6 +1,6 @@
 <?php
 
-namespace IdGenerator;
+namespace Ongudidan\IdGenerator;
 
 use Ramsey\Uuid\Uuid;
 
