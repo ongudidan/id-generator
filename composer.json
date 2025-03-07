@@ -13,7 +13,6 @@
       "email": "ongudidan@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "ramsey/uuid": "*"
   }
