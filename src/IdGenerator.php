@@ -25,6 +25,4 @@ class IdGenerator
         // Return the generated unique ID
         return $uniqueId;
     }
-
-
 }
